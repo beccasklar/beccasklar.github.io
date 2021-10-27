@@ -1,0 +1,52 @@
+@charset "UTF-8";
+/* CSS Document */
+body {width: 960px;
+		margin: 0 auto;}
+body{font-size: 20px}
+html{
+	color:#FF82CF;
+	background-color:#FFFAA1
+}
+a{
+	color:#FF82CF;
+}
+h3{text-align: center}
+
+h1{text-align: center}
+h1{font-size:50px}
+h1{font-family:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"}
+
+
+
+h2{text-align: center}
+h2{font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+h2{font-size: 30px}
+
+h4{height: 5px;
+	width:960px;}
+
+h9{font-size: large}
+h9{font-family:Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+h9{text-decoration: none}
+
+a{
+	text-decoration: none;
+	
+}
+
+a:visited{
+	color:purple;
+}
+
+a:hover{
+	color:blue;
+}
+h10{text-align: center}
+
+nav{
+	margin: 50px;
+background-color: #c0ffee
+}
+
+h13{font-size: 30px}
+h3{font-size: 50px;}
